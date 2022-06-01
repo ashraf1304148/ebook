@@ -1,0 +1,82 @@
+[
+    {
+        "id":" 1",
+        "rating": "4.5",
+        "title": "FAN ELTA3AML M3 ELNASS",
+        "text": "Danyl Karengy",
+        "img": "assets/images/1.jpeg",
+        "audio": "assets/audios/1.mp3"
+    },
+    {
+        "id": "2",
+        "rating": "4.7",
+        "title": "FAN ELLA MOBALAH",
+        "text": "Danyl Karengy",
+        "img": "assets/images/2.jpeg",
+        "audio": "assets/audios/1.mp3"
+    },
+    {
+        "id":" 3",
+        "rating": "4.8",
+        "title": "3GAAB EL32L ELBA4RY",
+        "text": "ragy 3nayat",
+        "img": "assets/images/3.jpeg",
+        "audio": "assets/audios/1.mp3"
+    },
+    {
+        "id": "4",
+        "rating": "3.2",
+        "title": "NAZARYT ELFOSTOK",
+        "text": "FAHD 3AMER ELAHMADY",
+        "img": "assets/images/4.jpeg",
+        "audio": "assets/audios/1.mp3"
+    },
+    {
+        "id": "5",
+        "rating":" 3.5",
+        "title": "GADD NAFSK: KAYF TOSB7 ALSHAKHS ALLZE TALMA ARDT AN TAKON",
+        "text": "FAHD 3AMER ELAHMADY",
+        "img": "assets/images/5.jpeg",
+        "audio": "assets/audios/1.mp3"
+    },{
+        "id":"6",
+        "rating": "4.5",
+        "title": "FAN ELTA3AML M3 ELNASS",
+        "text": "Danyl Karengy",
+        "img": "assets/images/6.jpeg",
+        "audio": "assets/audios/1.mp3"
+    },
+    {
+        "id": "7",
+        "rating": "4.7",
+        "title": "FAN ELLA MOBALAH",
+        "text": "Danyl Karengy",
+        "img": "assets/images/7.jpeg",
+        "audio": "assets/audios/1.mp3"
+    },
+    {
+        "id":"8",
+        "rating": "4.8",
+        "title": "3GAAB EL32L ELBA4RY",
+        "text": "ragy 3nayat",
+        "img": "assets/images/8.jpeg",
+        "audio": "assets/audios/1.mp3"
+    },
+    {
+        "id": "9",
+        "rating": "3.2",
+        "title": "NAZARYT ELFOSTOK",
+        "text": "FAHD 3AMER ELAHMADY",
+        "img": "assets/images/9.jpeg",
+        "audio": "assets/audios/1.mp3"
+    },
+    {
+        "id": "10",
+        "rating":" 3.5",
+        "title": "GADD NAFSK: KAYF TOSB7 ALSHAKHS ALLZE TALMA ARDT AN TAKON",
+        "text": "FAHD 3AMER ELAHMADY",
+        "img": "assets/images/10.jpeg",
+        "audio": "assets/audios/1.mp3"
+    }
+    
+]
